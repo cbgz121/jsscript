@@ -31,4 +31,5 @@ func main() {
 	// 输出排序后的列表
 	fmt.Println("排序后的列表:", my_list)
 	fmt.Println("排序后的列表长度:", len(my_list))
+	fmt.Println("排序后的列表是否为空:", my_list == nil)
 }
