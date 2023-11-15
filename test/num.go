@@ -1,5 +1,7 @@
 package main
 
-func tetestlog() {
+import "fmt"
 
+func tetestlog() {
+	fmt.Println("test push")
 }
