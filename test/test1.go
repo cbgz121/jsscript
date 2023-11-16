@@ -33,4 +33,5 @@ func main() {
 	fmt.Println("排序后的列表长度:", len(my_list))
 	fmt.Println("排序后的列表元素个数:", cap(my_list))
 	fmt.Println("test push two")
+	fmt.Println("test push three")
 }
